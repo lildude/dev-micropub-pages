@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 date: 2020-10-16 15:52:20 +0000
 ---
 
