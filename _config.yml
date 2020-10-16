@@ -4,11 +4,11 @@ plugins:
   - jekyll-seo-tag
 
  # Defaults for the entire site
- defaults:
-   -
-     scope:
-       path: ""
-       type: "posts"
-     values:
-       layout: "post"
-       title: ""
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      title: ""
