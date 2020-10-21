@@ -1,7 +1,6 @@
 ---
-layout: photo
-date: 2020-10-21 11:02:35 +0100
+layout: note
+date: 2020-10-21 11:03:19 +0100
 ---
-![](/images/sunset.jpg)
-  
-Micropub test of creating a photo referenced by URL
+
+Micropub test of creating a basic h-entry
