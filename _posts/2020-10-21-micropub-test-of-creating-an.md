@@ -1,8 +1,6 @@
 ---
 layout: note
-tags:
-- test1
-date: 2020-10-21 11:09:13 +0100
+date: 2020-10-21 11:17:52 +0100
 ---
 
-Micropub test of creating an h-entry with one category. This post should have one category, test1
+Micropub test of creating an h-entry with a JSON request
