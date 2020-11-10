@@ -3,6 +3,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+microblog:
+  username:       lildude
+  site:           dev
+  
  # Defaults for the entire site
 defaults:
   -
