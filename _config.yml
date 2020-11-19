@@ -4,7 +4,7 @@ plugins:
   - jekyll-seo-tag
 
 # Permalinks
-permalink:        /:categories/:year/:month/:title/
+permalink:        :title
 
 microblog:
   username:       lildude
